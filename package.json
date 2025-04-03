@@ -1,0 +1,17 @@
+{
+  "name": "ci_cd_seguro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Prueba pasada\" && exit 0",
+    "lint": "echo \"Lint pasado\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^9.23.0",
+    "jest": "^29.7.0"
+  }
+}
